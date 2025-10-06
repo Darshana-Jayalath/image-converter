@@ -14,7 +14,7 @@ A simple, fast, and completely free web-based image format converter. Convert yo
 
 ## 🎯 Live Demo
 
-[View Live Demo](#) *(Add your live site URL here)*
+[View Live Demo]-(https://darshana-jayalath.github.io/image-converter/))
 
 ## 📸 Screenshots
 
